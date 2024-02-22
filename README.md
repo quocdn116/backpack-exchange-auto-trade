@@ -1,5 +1,4 @@
 
-backpack_exchange
 To use the script, please read this document thoroughly.
 
 To run the commands:
