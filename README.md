@@ -12,3 +12,6 @@ If you don't have Node.js installed, follow this tutorial: https://www.runoob.co
 
 The script is for boosting trading volume on backpack, exchanging only SOL/USDC pairs in JavaScript.
 Note: Their official API is heavily used, which might cause delays during trading. You may need to manually stop the program and restart it.
+
+
+Refer from: https://github.com/catsats
